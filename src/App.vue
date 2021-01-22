@@ -7,17 +7,6 @@
 
                     <div class="navbar-content">
                         <div class="logo">GitHub Finder</div>
-                        <!-- <ul class="navbar-list">
-
-                            <li
-                                v-for="(link, i) in links"
-                                class="navbar-item"
-                                :key="i + link.url"
-                            >
-                                <router-link :to="link.url" class="navbar-link">{{ link.title }}</router-link>
-                            </li>
-
-                        </ul> -->
                     </div>
 
                 </div>
